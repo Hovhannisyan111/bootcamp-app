@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: hovhannisyan
+  IMAGE_NAME: hovhannisyan111/bootcamp-app
 
 jobs:
   build_image_run_tests_push_image:
